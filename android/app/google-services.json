@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378911364756",
+    "project_id": "tiffen-68314",
+    "storage_bucket": "tiffen-68314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378911364756:android:341f16e4cecc8d523dc681",
+        "android_client_info": {
+          "package_name": "com.example.tiff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378911364756-gubj2aeeeta2a60oq6kc9ft7o191cbno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiff",
+            "certificate_hash": "703a05b7c718baa7d9eae042c51df4652fefd81e"
+          }
+        },
+        {
+          "client_id": "378911364756-g5pb9m3kjfc4i5r41amc9ora4ljfn7ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMXLK-dpI1jGLkcduxxhMTr13Bl-cb_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378911364756-g5pb9m3kjfc4i5r41amc9ora4ljfn7ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

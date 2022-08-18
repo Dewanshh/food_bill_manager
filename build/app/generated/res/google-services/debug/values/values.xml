@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">378911364756-g5pb9m3kjfc4i5r41amc9ora4ljfn7ej.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">378911364756</string>
+    <string name="google_api_key" translatable="false">AIzaSyDyMXLK-dpI1jGLkcduxxhMTr13Bl-cb_A</string>
+    <string name="google_app_id" translatable="false">1:378911364756:android:341f16e4cecc8d523dc681</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDyMXLK-dpI1jGLkcduxxhMTr13Bl-cb_A</string>
+    <string name="google_storage_bucket" translatable="false">tiffen-68314.appspot.com</string>
+    <string name="project_id" translatable="false">tiffen-68314</string>
+</resources>
